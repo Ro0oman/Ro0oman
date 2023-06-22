@@ -1,54 +1,19 @@
-#RM
-
-###Roman Myziuk
-####Desarrollador Web
+# Roman Myziuk
+## Desarrollador Web
 
 Mi nombre es Román y actualmente me he graduado en el Ciclo de Grado Superior de Desarrollo de Aplicaciones Web en el que llevo 2 años, donde he podido formarme en un perfil FullStack, practicando principalmente con herramientas como C, Java, Python y SQL el primer año y Laravel y Javascript el segundo año, finalizando con una nota de 8,5. Actualmente estoy en busqueda de trabajo y centrado principalmente en un perfil Fullstack en desarrollo web, utilizando Laravel y VUE.JS pero con ganas de aprender tecnologias nuevas. Y en mi tiempo libre estoy aprendiendo a desarrollar videojuegos en Unity con C#. Pronto subiré un repositorio con todos mi avances.
-
-**Guia Markdown**
 
 [Mi perfil de LinkedIn](https://www.linkedin.com/in/roman-myziuk/)
 ![meme](https://static.wikia.nocookie.net/valorant/images/f/fe/Just_Business_Spray.png/revision/latest/scale-to-width-down/512?cb=20210927173058)
 
+Estos son algunos de mis proyectos y repositorios
 
-Codigo -> Una linea
-`(`printf("Hola")`)`
-Conjunto de Lineas
-```
-{
-```
-"Bla bla"
-```
-}
-```
-
-Contenido de la Guia
-
-1. Enlaces
-2. Imagenes
-3. Insercion de codigo
-4. Creacion de Listas
-5. Tablas
-```
-1. Enlaces
-2. Imagenes
-3. Insercion de Codigo
-4. Creacion de listas
-5. Tablas
-```
-Tablas
-
-| Col1Row1 | Col2Row1 |
-| ----------- | ----------- |
-| Col1Row2 | Col2Row2 |
-| Col1Row3 | Col2Row3 |
-
-```
-| Col1Row1 | Col2Row1 |
-| ----------- | ----------- |
-| Col1Row2 | Col2Row2 |
-| Col1Row3 | Col2Row3 |
-
-```
-
-[Ordenes Git](git.md)
+1. [Proyecto Final de DAW (Desarrollo de aplicaciones Web) Creado con VUE.JS y Laravel](https://github.com/Ro0oman/Proyecto-TFG-Roman)
+2. [Todo lo dado en el 2º año de DAW en PHP (Desarrollo de aplicaciones Web)](https://github.com/Ro0oman/CFGS-2-DAW)
+3. [PONG V.2 Hecho con JavaScript Vanilla](https://github.com/Ro0oman/PONG-V2)
+4. [Mini proyectos y aplicaciones creadas en Javascript (Slider, Lightbox, Creador de tareas)](https://github.com/Ro0oman/JSProjects)
+5. [Pequeños proyectos de Python](https://github.com/Ro0oman/PythonProjects)
+6. Aplicación con C
+7. Aplicacion con Java
+8. Aplicacion con Java e Interfaz grafica
+9. Proyecto Base de Datos
