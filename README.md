@@ -6,6 +6,7 @@ Mi nombre es Román y actualmente me he graduado en el Ciclo de Grado Superior d
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="roman-myziuk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/roman-myziuk?trk=profile-badge">Roman Myziuk</a></div>
 [Mi perfil de LinkedIn](https://www.linkedin.com/in/roman-myziuk/)
 
+
 Estos son algunos de mis proyectos y repositorios
 
 1. [Proyecto Final de DAW (Desarrollo de aplicaciones Web) Creado con VUE.JS y Laravel](https://github.com/Ro0oman/Proyecto-TFG-Roman)
