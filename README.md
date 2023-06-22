@@ -7,7 +7,7 @@ Mi nombre es Román y actualmente me he graduado en el Ciclo de Grado Superior d
 
 **Guia Markdown**
 
-[Enlace De La Imagen](https://www.linkedin.com/in/roman-myziuk/)
+[Mi perfil de LinkedIn](https://www.linkedin.com/in/roman-myziuk/)
 ![meme](https://static.wikia.nocookie.net/valorant/images/f/fe/Just_Business_Spray.png/revision/latest/scale-to-width-down/512?cb=20210927173058)
 
 
