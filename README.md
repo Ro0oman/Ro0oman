@@ -8,12 +8,6 @@ Asisto a conferencias de divulgación y aprendo constantemente sobre las novedad
 ![Ticket miduconf](https://github.com/Ro0oman/Ro0oman/blob/main/tikedMiduConf.png)
 
 
-
-
-![Linkedin page](https://github.com/Ro0oman/Ro0oman/blob/main/Captura.PNG)
-[Mi perfil de LinkedIn](https://www.linkedin.com/in/roman-myziuk/)
-
-
 Estos son algunos de mis proyectos y repositorios
 
 1. [Proyecto Final de DAW (Desarrollo de aplicaciones Web) Creado con VUE.JS y Laravel](https://github.com/Ro0oman/Proyecto-TFG-Roman)
