@@ -15,7 +15,7 @@ Currently, I’m deepening my experience with **TypeScript** through ongoing pro
    A personal project focused on environmental impact tracking, built to explore TypeScript and React hooks.
 
 2. [**Fallout-Portfolio**](https://github.com/Ro0oman/Fallout-Portfolio) — *HTML, CSS, Vanilla JS*  
-   A themed portfolio inspired by the Fallout universe, designed with a retro-futuristic aesthetic.
+   My actual portfolio, designed with a retro-futuristic aesthetic.
 
 3. [**Real Meal Deal**](https://github.com/Ro0oman/real-meal-deal) — *Vue 3, TheMealDB API*  
    A smart recipe recommender that fetches and filters meals dynamically.
